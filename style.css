@@ -1,0 +1,26 @@
+/* .table-bordered td, .table-bordered th {
+    border: 1px solid #fb5987;
+}
+.subj {
+    width: 10%;
+}
+.leftside {
+    width: 60%;
+    float: left;
+}
+.bgc {
+    background-color: #f5c5ca !important;
+}
+.thwd {
+    width: 10%;
+}
+.right {
+    width: 38%;
+float: left;
+padding-left: 1%;
+}
+.leftside::after{
+    content: '';
+    display: block;
+    clear: both;
+} */

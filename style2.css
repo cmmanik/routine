@@ -1,0 +1,16 @@
+.table-bordered td, .table-bordered th {
+    border: 1px solid #fb5987;
+}
+.pd {
+    padding-left:0px;
+}
+
+.bgc {
+    background-color: #f5c5ca !important;
+}
+ .widh {
+    width: 10%;
+ }
+ .mytable {
+    width: 50%!;
+ }
